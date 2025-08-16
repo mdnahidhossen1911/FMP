@@ -1,5 +1,5 @@
 # FMP: Flutter MVVM Provider Auto Creator
-
+```
 
                    ===========                                                                      
                  ===========-            #####           ######         ##################          
@@ -20,7 +20,7 @@
                  ############     ######                  ######      #####                         
                    ###########                    
 
-
+```
 
 **FMP** is a tool for rapidly scaffolding Flutter projects using the MVVM (Model-View-ViewModel) architecture with Provider for state management.
 
