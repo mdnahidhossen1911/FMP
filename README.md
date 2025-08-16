@@ -46,38 +46,39 @@ It follows professional developer standards with **Clean Code** and **SOLID prin
 ## Generated Project Structure
 
 ```
-lib/
-  models/
-  views/
-  viewmodels/
-  services/
-  data/
-    network/
-      base_api_service.dart
-      network_api_service.dart
-    exceptions/
-      app_exception.dart
-    response/
-      api_response.dart
-      status.dart
-  utils/
-    components/
-      snack_bar.dart
-    app_colors.dart
-    assets_path.dart
-    app_urls.dart
-  routes/
-    app_router.dart
-  themes/
-    app_theme.dart
-  main_app.dart
-  locator.dart
+lib
+├── models
+├── views
+├── viewmodels
+├── services
+├── data
+│   ├── network
+│   │   ├── base_api_service.dart
+│   │   └── network_api_service.dart
+│   ├── exceptions
+│   │   └── app_exception.dart
+│   └── response
+│       ├── api_response.dart
+│       └── status.dart
+├── utils
+│   ├── components
+│   │   └── snack_bar.dart
+│   ├── app_colors.dart
+│   ├── assets_path.dart
+│   └── app_urls.dart
+├── routes
+│   └── app_router.dart
+├── themes
+│   └── app_theme.dart
+├── main_app.dart
+└── locator.dart
 
-assets/
-  images/
-  icons/
-  animations/
-  fonts/
+assets
+├── images
+├── icons
+├── animations
+└── fonts
+
 ```
 
 ---
