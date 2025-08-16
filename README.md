@@ -1,4 +1,4 @@
-# FMP: Flutter MVVM Provider Auto Creator
+# FMP (Flutter MVVM Provider CLI)
 ```
 
                    ===========                                                                      
@@ -22,7 +22,6 @@
 
 ```
 
-# FMP (Flutter MVVM Provider CLI)
 
 **FMP** is a CLI tool for generating a complete Flutter MVVM (Model-View-ViewModel) project structure.  
 It follows professional developer standards with **Clean Code** and **SOLID principles**.
@@ -31,15 +30,15 @@ It follows professional developer standards with **Clean Code** and **SOLID prin
 
 ## Features
 
-- ✅ **MVVM Architecture** (Models, Views, ViewModels, Services, Data, Utils)
-- ✅ **Clean & Scalable Project Structure**
-- ✅ **Provider State Management**
-- ✅ **Service Locator with get_it**
-- ✅ **API Handling with Exceptions & Response Wrappers**
-- ✅ **Reusable Components & Utilities**
-- ✅ **Routing with go_router**
-- ✅ **Theme Management**
-- ✅ **Boilerplate Reduction**
+-  **MVVM Architecture** (Models, Views, ViewModels, Services, Data, Utils)
+-  **Clean & Scalable Project Structure**
+-  **Provider State Management**
+-  **Service Locator with get_it**
+-  **API Handling with Exceptions & Response Wrappers**
+-  **Reusable Components & Utilities**
+-  **Routing with go_router**
+-  **Theme Management**
+-  **Boilerplate Reduction**
 
 ---
 
