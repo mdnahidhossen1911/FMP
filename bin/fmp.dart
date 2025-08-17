@@ -86,6 +86,29 @@ class MyApp extends StatelessWidget {
 }
 ''');
   }
+
+  // Example pubspec.yaml file
+  final pubspecFile = File('${root.path}/pubspec.yaml');
+  pubspecFile.writeAsStringSync('''name: mvvm_provider_example
+description: A Flutter project using MVVM with Provider
+version: 1.0.0+1
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  http: ^0.13.0
+flutter:
+  uses-material-design: true
+
+assets:
+  - assets/images/
+  - assets/icons/
+  - assets/animations/
+  - assets/fonts/
+''');
+
   print(
       '   \u001b[34mFlutter MVVM project structure created successfully in $projectName\u001b[0m');
 }
