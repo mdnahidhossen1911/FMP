@@ -2,7 +2,7 @@ name: fmp
 description: A Flutter CLI tool to generate MVVM project structure using Provider.
 executables:
   fmp: fmp
-version: 0.0.2
+version: 1.0.1
 repository: https://github.com/mdnahidhossen1911/FMP
 homepage: https://github.com/mdnahidhossen1911/FMP
 issue_tracker: https://github.com/mdnahidhossen1911/FMP/issues
