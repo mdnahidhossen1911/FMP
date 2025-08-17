@@ -29,15 +29,15 @@ lib
 ├── views
 ├── viewmodels
 ├── services
-├── data
-│   ├── network
-│   │   ├── base_api_service.dart
-│   │   └── network_api_service.dart
-│   ├── exceptions
-│   │   └── app_exception.dart
-│   └── response
-│       ├── api_response.dart
-│       └── status.dart
+│    └── data
+│       ├── network
+│       │   ├── base_api_service.dart
+│       │   └── network_api_service.dart
+│       ├── exceptions
+│       │   └── app_exception.dart
+│       └── response
+│           ├── api_response.dart
+│           └── status.dart
 ├── utils
 │   ├── components
 │   │   └── snack_bar.dart
